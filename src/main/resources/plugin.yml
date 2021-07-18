@@ -1,0 +1,4 @@
+main: com.dpkgsoft.eventcreative.Plugin
+name: EventCreative
+version: 1
+api-version: 1.17
